@@ -1,0 +1,1 @@
+kmeans.exe iris.data.txt 3 20 0
