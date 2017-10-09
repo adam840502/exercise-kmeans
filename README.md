@@ -3,7 +3,7 @@
 使用Kmeans演算法作資料分群，並利用GnuPlot視覺化結果  
 使用[gnuplot-iostream](https://github.com/dstahlke/gnuplot-iostream)
 <br><br><br>
-<img src="/images/hierarchy.png" width=640px alt="hierarchy"></img>
+<img src="/images/hierarchy.png" width="640" alt="hierarchy" />
 
 需求
 ---
@@ -34,6 +34,12 @@ syntax
 範例
 ---
     kmeans.exe iris.data.txt 3 20 0
-  
+    
 上例為讀取iris.data.txt此檔案, 分成三群, 總共執行20次, 兩張圖繪製間	的時間至少隔0毫秒  
 可執行範例Example.bat
+<br><br>
+<img src="/images/kmeans2.png" alt="kmeans2" width="640" />
+<img src="/images/kmeans3.png" alt="kmeans3" width="640" />
+<img src="/images/kmeans4.png" alt="kmeans4" width="640" />
+<img src="/images/kmeans4-1.png" alt="kmeans4-1" width="640" />
+<img src="/images/kmeans4-2.png" alt="kmeans4-2" width="640" />
