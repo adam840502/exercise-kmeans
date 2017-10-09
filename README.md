@@ -35,5 +35,5 @@ syntax
 ---
     kmeans.exe iris.data.txt 3 20 0
   
-上例為讀取iris.data.txt此檔案, 分成三群, 總共執行30次, 兩張圖繪製間	的時間至少隔200毫秒  
+上例為讀取iris.data.txt此檔案, 分成三群, 總共執行20次, 兩張圖繪製間	的時間至少隔0毫秒  
 可執行範例Example.bat
