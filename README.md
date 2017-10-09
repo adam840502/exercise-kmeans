@@ -2,9 +2,8 @@
 
 使用Kmeans演算法作資料分群，並利用GnuPlot視覺化結果  
 使用[gnuplot-iostream](https://github.com/dstahlke/gnuplot-iostream)
-
 <br><br><br>
-<img src="/images/hierarchy.png" height=300px alt="hierarchy"></img>
+<img src="/images/hierarchy.png" width=640px alt="hierarchy"></img>
 
 需求
 ---
