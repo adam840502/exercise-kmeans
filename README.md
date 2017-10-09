@@ -4,7 +4,7 @@
 使用[gnuplot-iostream](https://github.com/dstahlke/gnuplot-iostream)
 
 <br><br><br>
-<img src="/images/Kmeans.svg" height=300px alt="hierarchy"></img>
+<img src="/images/hierarchy.png" height=300px alt="hierarchy"></img>
 
 需求
 ---
