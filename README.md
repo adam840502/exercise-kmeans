@@ -34,7 +34,7 @@
     </li>
   </ul>
 </ul>
-<br><br>
+<br>
 
 syntax
 ---
